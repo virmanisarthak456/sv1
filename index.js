@@ -54,7 +54,7 @@ if (env.name=='development') {
 
 
 
-app.use(urlencoded());
+app.use(urlencoded({extended : false}));
 app.use(cookieParser());
 
 //now accessing the static folders

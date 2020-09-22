@@ -1,0 +1,33 @@
+#codeial {
+  color: whitesmoke;
+  display: inline-flex; }
+
+#SU {
+  display: inline-flex;
+  color: whitesmoke; }
+
+#SI {
+  display: inline-flex;
+  color: whitesmoke; }
+
+#sign-in {
+  display: inline; }
+
+#sign-up {
+  display: inline; }
+
+#header {
+  background-color: skyblue;
+  border: solid 3px darkblue; }
+
+#Aout {
+  color: whitesmoke; }
+
+#Aname {
+  color: whitesmoke; }
+
+#btn-1 {
+  background-color: blue; }
+
+#btn-2 {
+  background-color: blue; }
